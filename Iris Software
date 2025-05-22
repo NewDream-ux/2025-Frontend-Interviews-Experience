@@ -1,0 +1,29 @@
+* Difference between Let, Var and Cost keywords.
+* Explain Hoisting concept.
+* console.log(5 < 6 < 7); // What will be the output and why
+* const array = [1, 2, 3, 4, 5]; // Find the sum of array elements
+* const array = [1, 2, 3, 4, 5]; // Which type of array we will get if we do array[10]
+* Object copy concept or what is shallow copy and deep copy.
+* for(var i = 0; i < 10; i++){
+    setTimeout(function(){console.log("value is " + i);})
+} // what will be the output in console.
+* Difference between null, undefined and not defined.
+* Event Loop Process
+* Difference between callback function and promises.
+* Lifecycle methods in Class base component and how we can achieve these lifecycle methods in functional base component.
+* Provide some hooks name.
+* What is ref in reactjs.
+* What is HOC in reactjs, give a real example for HOC.
+* Lets suppose we have two component in Parent and Child relationship and we are using useEffect in both component so which useEffect will call first.
+* Write a code api fetching and display records
+* Which feature you use for data storage in reactjs.
+* How redux works.
+* What is the difference between Redux and Context Api
+* Which library you use for Unit Testing, write a test case for a input field.
+* Types of rendering in Nextjs
+* Difference between Server Side Rendering and Client Side Rendering
+* How we can achieve Routing in Nextjs
+* What are the Styled Component and we can use it in our project.
+
+
+
